@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to RSK3D.no on RSK3D</title><link>https://rsk3d.no/</link><description>Recent content in Welcome to RSK3D.no on RSK3D</description><generator>Hugo -- 0.152.1</generator><language>en-us</language><lastBuildDate/><atom:link href="https://rsk3d.no/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to RSK3D.no on RSK3D</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to RSK3D.no on RSK3D</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2025 19:46:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSK3D</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 03 Nov 2025 19:46:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;RSK3D&lt;/strong&gt;
+I&amp;rsquo;ve been a 3D artist for over 20 years.. Using tools such as 3DS  MAX and Blender for modeling and rendering, Substance for materials and textures.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;— Richard (RSK3D)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
