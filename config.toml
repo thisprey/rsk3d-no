@@ -1,0 +1,14 @@
+baseURL = "https://rsk3d.no/"
+languageCode = "en-us"
+title = "RSK3D"
+theme = "PaperMod"
+relativeURLs = true
+canonifyURLs = true
+
+[params]
+  homeInfoParams = { Title = "Hi, I'm RSK3D 👋", Content = "3D Designer • Developer • Tech Enthusiast" }
+  ShowReadingTime = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = false
+  ShowCodeCopyButtons = true
+  defaultTheme = "dark"
