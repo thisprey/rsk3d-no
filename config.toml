@@ -12,3 +12,16 @@ canonifyURLs = true
   ShowPostNavLinks = false
   ShowCodeCopyButtons = true
   defaultTheme = "dark"
+
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/thisprey"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/richard-k-29b92784"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@rsk3d.com"
